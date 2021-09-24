@@ -17,7 +17,7 @@ export const RegularTable = ({ columns, rows }: TableData) => {
 
   return (
     <>
-      <h1>Regular page</h1>
+      <h1>Regular table</h1>
       <Table columns={antColumns} dataSource={rows} pagination={false}/>
     </>
   );
