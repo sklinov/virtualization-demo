@@ -30,6 +30,7 @@ export const VirtualizedTable = ({columns, rows}: TableData) => {
     <AutoResizer>
         {({ width, height }) => (
           <BaseTable
+            fixed
             data={rows}
             width={width}
             height={height}
