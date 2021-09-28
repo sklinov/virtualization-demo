@@ -11,6 +11,32 @@ Stack for the project:
 
 Based on our production experience at [Datafold](https://datafold.com)
 
+## Scripts
+
+Install all the dependencies:
+```
+npm install
+```
+Start dev server:
+```
+npm run dev
+```
+Build the project
+```
+npm run build
+```
+Serve
+```
+npm run serve
+```
+
+## Learn more
+
 To learn a bit more about possibilities of customizing headers of BaseTable check out [this sandbox](https://codesandbox.io/s/react-base-table-multi-header-4xh7d)
 
 Check out [FrontendConf](https://frontendconf.ru/)
+
+## Questions?
+Still have questions? Reach out
+E-mail: [sergey@datafold.com](mailto:sergey@datafold.com)
+Telegram: [@sergeiklinov](https://t.me/sergeiklinov)
