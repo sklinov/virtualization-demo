@@ -6,7 +6,7 @@ export const Home = ({
 }: {
   setSetting: React.Dispatch<React.SetStateAction<GeneratedDataProps>>;
 }) => {
-  const emojiStyle: React.CSSProperties = { fontSize: "48px" };
+  const emojiStyle: React.CSSProperties = { fontSize: "64px" };
   const buttonStyle: React.CSSProperties = {
     height: "auto",
     fontSize: "24px",

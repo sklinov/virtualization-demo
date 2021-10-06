@@ -23,7 +23,7 @@ function App() {
   return (
     <div className="App">
       <Router>
-        <Menu mode="horizontal">
+        <Menu mode="horizontal" style={{fontSize: '2em', fontWeight: 500}}>
           <Menu.Item key={Paths.home}>
             <Link to={Paths.home}>🏠 Home</Link>
           </Menu.Item>
